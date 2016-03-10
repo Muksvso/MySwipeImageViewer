@@ -1,0 +1,25 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+}
+apply plugin: 'android'
+
+repositories {
+    mavenCentral()
+}
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion '19.1.0'
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 17
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:+'
+}

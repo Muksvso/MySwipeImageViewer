@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Muks\\TSP\\Mobility\\MySwipeImageViewer\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\build\\intermediates\\res\\merged\\debug\\values-de\\values-de.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "C:\\Muks\\TSP\\Mobility\\MySwipeImageViewer\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 56,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 51,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Muks\\TSP\\Mobility\\MySwipeImageViewer\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 95,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Muks\\TSP\\Mobility\\MySwipeImageViewer\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 95,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 55,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Muks\\TSP\\Mobility\\MySwipeImageViewer\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\src\\main\\res\\values-de\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 55,
+                        "endOffset": 312
+                    }
+                }
+            }
+        ]
+    }
+]
